@@ -1,0 +1,17 @@
+{
+  "name": "html-to-docx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -R classic --no-coverage test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "striptags": "^3.2.0"
+  },
+  "devDependencies": {
+    "tap": "^16.1.0"
+  }
+}
